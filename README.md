@@ -1,1 +1,1 @@
-# odin-recipes
+This project will let me practice using files and directories, and basic html within pages, by creating a simple recipe website with links.
